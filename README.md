@@ -101,6 +101,14 @@ module crc(
 endmodule // crc 
 ```
 
+## Archived version
+
+This repository is a mirror of the version currently found on [source forge](https://sourceforge.net/projects/crc-gen-verilog/), duplicated here in an effort to no help preserve this tool into the future. 
+I, Julia Desmazes, have not contributed in any way to the development of this tool, all credit belongs to the original author. 
+
+In addition to being a command line tool, this tool also used to be available interactively though the now defuncts [OutputLogic](https://web.archive.org/web/20240716185145/http://outputlogic.com/?page_id=321) website.  
+![screenshot](/doc/outputlogic.png)
+
 ## About the original author 
 
 Evgeni Stavinov is the creator and main developer of [OutputLogic.com](https://web.archive.org/web/20240718180127/http://outputlogic.com/). Evgeni has more than 20 years of diverse design experience in the areas of FPGA logic design, embedded software and communication protocols. He holds MSEE from University of Southern California and BSEE from Technion – Israel Institute of Technology. For more information contact evgeni@outputlogic.com
