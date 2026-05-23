@@ -19,11 +19,9 @@ Invoke the tool via command line:
 
 ### Notes on `poly_string`
 
-Examples: 
-$$
-05 = x^5+x^2+1$
-8005 = x^{16} + x^{15}+ x^2+ 1
-$$
+Examples: \
+$05 = x^5+x^2+1$ \
+$8005 = x^{16} + x^{15}+ x^2+ 1$
 
  
 The string representation (`0x05`, `0x8005`) doesn’t include highest degree coefficient in polynomial representation ($x^5$ and $x^16$ in the above examples).
